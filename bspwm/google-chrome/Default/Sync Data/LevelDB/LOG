@@ -1,0 +1,9 @@
+2023/09/05-15:00:39.632 257e Reusing MANIFEST /home/giovana/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/09/05-15:00:39.632 257e Recovering log #3
+2023/09/05-15:00:39.633 257e Reusing old log /home/giovana/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2023/09/05-15:00:47.777 257e Level-0 table #5: started
+2023/09/05-15:00:47.784 257e Level-0 table #5: 134226 bytes OK
+2023/09/05-15:00:47.786 257e Delete type=0 #3
+2023/09/05-15:00:59.182 257e Level-0 table #7: started
+2023/09/05-15:00:59.211 257e Level-0 table #7: 109227 bytes OK
+2023/09/05-15:00:59.213 257e Delete type=0 #4

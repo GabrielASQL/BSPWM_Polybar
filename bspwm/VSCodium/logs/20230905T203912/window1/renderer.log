@@ -1,0 +1,4 @@
+2023-09-05 20:39:15.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'quickPickItemIcon' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-09-05 20:39:17.192 [info] Started initializing default profile extensions in extensions installation folder. file:///home/Gabriel/.vscode-oss/extensions
+2023-09-05 20:39:20.888 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/Gabriel/.vscode-oss/extensions
+2023-09-05 20:39:25.764 [info] [perf] Render performance baseline is 244ms

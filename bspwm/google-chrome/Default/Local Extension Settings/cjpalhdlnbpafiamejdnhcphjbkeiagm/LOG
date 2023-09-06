@@ -1,0 +1,21 @@
+2023/09/05-15:00:41.226 257d Reusing MANIFEST /home/giovana/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/09/05-15:00:41.226 257d Recovering log #10
+2023/09/05-15:00:41.283 257d Reusing old log /home/giovana/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000010.log 
+2023/09/05-15:01:06.812 257e Level-0 table #14: started
+2023/09/05-15:01:06.870 257e Level-0 table #14: 1071669 bytes OK
+2023/09/05-15:01:06.872 257e Delete type=0 #10
+2023/09/05-15:03:07.306 257e Level-0 table #16: started
+2023/09/05-15:03:07.382 257e Level-0 table #16: 2931683 bytes OK
+2023/09/05-15:03:07.384 257e Delete type=0 #13
+2023/09/05-15:03:07.385 257e Compacting 4@0 + 1@1 files
+2023/09/05-15:03:07.497 257e Generated table #17@0: 12 keys, 2641707 bytes
+2023/09/05-15:03:07.557 257e Generated table #18@0: 10 keys, 2634482 bytes
+2023/09/05-15:03:07.615 257e Generated table #19@0: 5 keys, 2579461 bytes
+2023/09/05-15:03:07.620 257e Generated table #20@0: 5 keys, 133735 bytes
+2023/09/05-15:03:07.620 257e Compacted 4@0 + 1@1 files => 7989385 bytes
+2023/09/05-15:03:07.621 257e compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/09/05-15:03:07.621 257e Delete type=2 #11
+2023/09/05-15:03:07.622 257e Delete type=2 #14
+2023/09/05-15:03:07.622 257e Delete type=2 #7
+2023/09/05-15:03:07.622 257e Delete type=2 #9
+2023/09/05-15:03:07.622 257e Delete type=2 #16

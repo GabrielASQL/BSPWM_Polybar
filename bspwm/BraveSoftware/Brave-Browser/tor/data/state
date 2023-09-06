@@ -1,0 +1,44 @@
+# Tor state file last generated on 2023-09-06 07:21:11 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 745 1
+CircuitBuildTimeBin 785 1
+CircuitBuildTimeBin 795 2
+CircuitBuildTimeBin 825 1
+CircuitBuildTimeBin 895 1
+CircuitBuildTimeBin 935 1
+CircuitBuildTimeBin 1065 1
+CircuitBuildTimeBin 1105 1
+CircuitBuildTimeBin 1145 1
+CircuitBuildTimeBin 1165 1
+CircuitBuildTimeBin 1215 1
+CircuitBuildTimeBin 1285 1
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1505 1
+CircuitBuildTimeBin 1705 1
+CircuitBuildTimeBin 1895 1
+Dormant 0
+Guard in=default rsa_id=1CBBD1CCE9FA12712D62F2C2974345380751E58B nickname=OnePercent01 sampled_on=2023-09-03T16:43:12 sampled_idx=0 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-09-06T06:35:50 confirmed_idx=0 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=6.000000 pb_circ_successes=6.000000 pb_successful_circuits_closed=6.000000
+Guard in=default rsa_id=4311DB6FC3FD57F4D169DAED81F667584B8176EA nickname=myRandomNodeWw sampled_on=2023-08-26T12:03:33 sampled_idx=1 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-09-05T22:48:06 confirmed_idx=1 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=10.000000 pb_circ_successes=10.000000 pb_successful_circuits_closed=10.000000
+Guard in=default rsa_id=F13AF45D9B4258C873C644228335220B1686061A nickname=Virgo sampled_on=2023-09-05T08:40:19 sampled_idx=2 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-09-04T21:03:40 confirmed_idx=2
+Guard in=default rsa_id=BA46824BA757FCCC0FB4FDC0A52DC348BD84FBA6 nickname=zan sampled_on=2023-09-03T20:44:50 sampled_idx=3 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=8294187C41680B65872AEC7520B974689CC00B60 nickname=Pleiades sampled_on=2023-09-03T21:05:37 sampled_idx=4 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=133BBDA007B04F3EF3BAFEF9DE204425984CA841 nickname=DemonHunter sampled_on=2023-09-04T16:07:27 sampled_idx=5 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=BF93594384A02DE7689C4FD821E2638DA2CD4792 nickname=labaliseridicule sampled_on=2023-08-26T03:55:46 sampled_idx=6 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=898B2FBA56F3707B72A0B97CC492CBB466D9D707 nickname=julianrelay sampled_on=2023-09-05T08:12:33 sampled_idx=7 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=7CBD6718FF989EE6137448C9FF1A68533ADB1CB5 nickname=taomeba sampled_on=2023-08-31T13:16:25 sampled_idx=8 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=E6275E8AC072658E196B89E3891A597B4971683B nickname=BM15 sampled_on=2023-09-04T23:32:41 sampled_idx=9 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=844DF1DE1E3236A9200C808CFF43BC86448FABF1 nickname=RDPdotSH sampled_on=2023-08-25T14:35:52 sampled_idx=10 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=DA6290D57B110BE08E833EDD8B7C3026F56723C4 nickname=poncho sampled_on=2023-08-29T21:40:42 sampled_idx=11 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=AE73B6062AFE1F8223E7E0889160ABA774159490 nickname=xeed sampled_on=2023-09-04T01:55:39 sampled_idx=12 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=9859AAF4BEBF1D8251FE96445E2DB1F8241110A9 nickname=xeed sampled_on=2023-09-01T14:31:53 sampled_idx=13 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=FDA673176CE83EEB3DD24414A5AD7B411D9165BC nickname=Shayepe sampled_on=2023-09-01T10:02:33 sampled_idx=14 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=00D2CE3C2153EA09786F2105F26B138CF759424F nickname=tried sampled_on=2023-08-28T15:42:45 sampled_idx=15 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=6A2F0C055A1CDE77741BA7D93D8FAE856C86F54C nickname=gangstatestOn175 sampled_on=2023-08-25T21:09:06 sampled_idx=16 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=44DC23661E05DEFD94398936D9334987ABCB6E5E nickname=currentlane sampled_on=2023-09-03T06:12:39 sampled_idx=17 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=FF9475B400CF84900C3074BCE5ADFCCFE1CB9943 nickname=JBrodsky sampled_on=2023-08-29T16:42:46 sampled_idx=18 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=90A5D1355C4B5840E950EB61E673863A6AE3ACA1 nickname=rofltor09 sampled_on=2023-08-29T10:26:42 sampled_idx=19 sampled_by=0.4.7.13 listed=1
+LastWritten 2023-09-06 10:21:11
+TorVersion Tor 0.4.7.13
+TotalBuildTimes 17

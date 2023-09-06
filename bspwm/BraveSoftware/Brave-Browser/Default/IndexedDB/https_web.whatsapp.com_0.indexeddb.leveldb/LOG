@@ -1,0 +1,42 @@
+2023/09/06-15:05:13.991 936 Reusing MANIFEST /home/Gabriel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/06-15:05:13.992 936 Recovering log #39
+2023/09/06-15:05:14.062 936 Reusing old log /home/Gabriel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2023/09/06-15:05:33.633 937 Level-0 table #46: started
+2023/09/06-15:05:33.712 937 Level-0 table #46: 1369485 bytes OK
+2023/09/06-15:05:33.714 937 Delete type=0 #39
+2023/09/06-15:05:33.755 937 Compacting 1@1 + 3@2 files
+2023/09/06-15:05:34.140 937 Generated table #47@1: 27382 keys, 2271420 bytes
+2023/09/06-15:05:34.507 937 Generated table #48@1: 33656 keys, 2206827 bytes
+2023/09/06-15:05:34.651 937 Generated table #49@1: 27479 keys, 609474 bytes
+2023/09/06-15:05:34.651 937 Compacted 1@1 + 3@2 files => 5087721 bytes
+2023/09/06-15:05:34.653 937 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/09/06-15:05:46.101 937 Level-0 table #51: started
+2023/09/06-15:05:46.219 937 Level-0 table #51: 1275620 bytes OK
+2023/09/06-15:05:46.221 937 Delete type=2 #41
+2023/09/06-15:05:46.221 937 Delete type=2 #43
+2023/09/06-15:05:46.221 937 Delete type=0 #45
+2023/09/06-15:05:46.221 937 Delete type=2 #42
+2023/09/06-15:05:46.221 937 Delete type=2 #46
+2023/09/06-15:05:46.309 936 Compacting 1@1 + 3@2 files
+2023/09/06-15:05:46.509 936 Generated table #52@1: 33188 keys, 2276605 bytes
+2023/09/06-15:05:46.675 936 Generated table #53@1: 23579 keys, 2198868 bytes
+2023/09/06-15:05:46.794 936 Generated table #54@1: 38389 keys, 851100 bytes
+2023/09/06-15:05:46.794 936 Compacted 1@1 + 3@2 files => 5326573 bytes
+2023/09/06-15:05:46.796 936 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/09/06-15:07:46.109 937 Level-0 table #56: started
+2023/09/06-15:07:46.181 937 Level-0 table #56: 1368094 bytes OK
+2023/09/06-15:07:46.184 937 Delete type=2 #48
+2023/09/06-15:07:46.184 937 Delete type=2 #51
+2023/09/06-15:07:46.184 937 Delete type=2 #47
+2023/09/06-15:07:46.184 937 Delete type=0 #50
+2023/09/06-15:07:46.184 937 Delete type=2 #49
+2023/09/06-15:07:48.769 937 Compacting 1@1 + 3@2 files
+2023/09/06-15:07:49.017 937 Generated table #57@1: 34336 keys, 2300187 bytes
+2023/09/06-15:07:49.270 937 Generated table #58@1: 16835 keys, 2191382 bytes
+2023/09/06-15:07:49.335 937 Generated table #59@1: 48559 keys, 1141837 bytes
+2023/09/06-15:07:49.335 937 Compacted 1@1 + 3@2 files => 5633406 bytes
+2023/09/06-15:07:49.338 937 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/09/06-15:07:49.339 937 Delete type=2 #53
+2023/09/06-15:07:49.340 937 Delete type=2 #54
+2023/09/06-15:07:49.340 937 Delete type=2 #56
+2023/09/06-15:07:49.340 937 Delete type=2 #52
